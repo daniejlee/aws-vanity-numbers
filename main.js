@@ -25,7 +25,7 @@ console.log('array of possible letter combinations: ',lettersArray)
 //generate possible words
 let hugeArray = [];
 for(let i = 0; i < lettersArray.length; i++){
-
+  console.log(i)
 }
 
 
